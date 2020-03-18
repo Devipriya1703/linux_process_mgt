@@ -9,3 +9,4 @@ c)blocking
 
 
 gcc -g yourprogramename ( for eg: gcc -g prg1.c ) 
+
